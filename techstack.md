@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ry-animal/web3-se-poc is built on the following main stack:
+
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
@@ -18,11 +19,13 @@ ry-animal/web3-se-poc is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ry-animal/web3-se-poc is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
@@ -39,14 +42,15 @@ ry-animal/web3-se-poc is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ry-animal/web3-se-poc](https://github.com/ry-animal/web3-se-poc)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|38<br/>Tools used|11/09/23 <br/>Report generated|
+|40<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -241,9 +245,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (17)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (19)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (17)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (19)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -257,6 +261,8 @@ Full tech stack [here](/techstack.md)
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.5.0|03/31/23|ryan |MIT|N/A|
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.2.1|03/31/23|ryan |MIT|N/A|
 |[ethers](https://www.npmjs.com/ethers)|v4.0.49|03/31/23|ryan |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.1|03/31/23|ryan |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.0.3|03/31/23|ryan |MIT|N/A|
 |[postcss](https://www.npmjs.com/postcss)|v8.4.14|03/31/23|ryan |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
 |[qrcode](https://www.npmjs.com/qrcode)|v1.4.4|03/31/23|ryan |MIT|N/A|
 |[react-copy-to-clipboard](https://www.npmjs.com/react-copy-to-clipboard)|v5.1.0|03/31/23|ryan |MIT|N/A|
@@ -268,4 +274,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
